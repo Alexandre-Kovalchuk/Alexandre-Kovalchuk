@@ -47,6 +47,8 @@ I specialize in creating seamless, user-friendly web experiences. Proficient in 
                 <img src="./images/typescript.svg" alt="TypeScript" width="44" height="44" />
                 <br>TypeScript
             </td>
+        </tr>
+        <tr>
             <td align="center" width="88">
                 <img src="./images/vue.svg" alt="Vue.js" width="44" height="44" />
                 <br>Vue.js
@@ -55,8 +57,6 @@ I specialize in creating seamless, user-friendly web experiences. Proficient in 
                 <img src="./images/firebase.svg" alt="Firebase" width="44" height="44" />
                 <br>Firebase
             </td>
-        </tr>
-        <tr>
             <td align="center" width="88">
                 <img src="./images/git.svg" alt="Git" width="44" height="44" />
                 <br>Git

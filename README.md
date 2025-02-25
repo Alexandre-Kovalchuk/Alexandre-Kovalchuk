@@ -1,4 +1,4 @@
-Hi 👋 My name is Oleksander Kovalchuk
+Hi 👋 My name is Oleksandr Kovalchuk
 =====================================
 
 Frontend Developer
